@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sample-acm-helm-app:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-05-07T12:25:02.127984061-03:00"
+    description: A Helm chart for Kubernetes
+    digest: b469fd4c6fea6bb42ad5913247da9cd8877ec4b9cece8564e53c9b62de470223
+    name: sample-acm-helm-app
+    type: application
+    urls:
+    - sample-acm-helm-app-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-05-07T12:25:02.127334861-03:00"
