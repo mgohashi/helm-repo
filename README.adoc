@@ -1,0 +1,19 @@
+= Helm Repo
+
+== Creating a package
+
+[source,sh]
+----
+helm package ../sample-acm-helm-app --version=0.1.3
+----
+
+== Updating the index
+
+[source,sh]
+----
+helm repo index .
+----
+
+== Raw format
+
+Access it though the raw user content, available in github.
