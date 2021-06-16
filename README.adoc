@@ -17,3 +17,9 @@ helm repo index .
 == Raw format
 
 Access it though the raw user content, available in github.
+
+== Repository format
+
+It is also possible to upload packages to a Nexus repository. 
+
+You just need to edit the `upload-files-repo.sh` according to your needs and execute it.
