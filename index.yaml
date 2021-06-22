@@ -1,0 +1,84 @@
+apiVersion: v1
+entries:
+  sample-acm-helm-app:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-06-22T17:15:58.816825657-03:00"
+    description: A Helm chart for Kubernetes
+    digest: a8f7706d82a7b124ce68ea571c098e587295614cf9d81cd80a75ebfd49e8a542
+    name: sample-acm-helm-app
+    type: application
+    urls:
+    - sample-acm-helm-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-06-22T17:15:58.816656201-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 1804320a6fc655041ea9ab741676b730e8fa3bb804bfbc19c7376efb9a53506a
+    name: sample-acm-helm-app
+    type: application
+    urls:
+    - sample-acm-helm-app-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-06-22T17:15:58.816488475-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 746a81ca7bb27f75d3b82d0b5898db95d73ab1f8bcc89615fb209de24ba182dd
+    name: sample-acm-helm-app
+    type: application
+    urls:
+    - sample-acm-helm-app-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-06-22T17:15:58.816247626-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 5566f207f5b3979f7419f7c3b6a5a66deebccf4ae38aa6d0338906b70e48c56c
+    name: sample-acm-helm-app
+    type: application
+    urls:
+    - sample-acm-helm-app-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-06-22T17:15:58.816092142-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 8ce348b522e854d45e4e4e9619c390606e80bd57f82d0677c39293c98faf15bb
+    name: sample-acm-helm-app
+    type: application
+    urls:
+    - sample-acm-helm-app-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-06-22T17:15:58.815901822-03:00"
+    description: A Helm chart for Kubernetes
+    digest: eea200dcf2fca79abb7cc1f8173941be4a4603b3d2a8d169b3c1da11000edc9d
+    name: sample-acm-helm-app
+    type: application
+    urls:
+    - sample-acm-helm-app-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-06-22T17:15:58.815740311-03:00"
+    description: A Helm chart for Kubernetes
+    digest: d8df1c5873634d073306c95ce2ed7620ff906c5e94c5e775c6844636499c8bcd
+    name: sample-acm-helm-app
+    type: application
+    urls:
+    - sample-acm-helm-app-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-06-22T17:15:58.815572698-03:00"
+    description: A Helm chart for Kubernetes
+    digest: b469fd4c6fea6bb42ad5913247da9cd8877ec4b9cece8564e53c9b62de470223
+    name: sample-acm-helm-app
+    type: application
+    urls:
+    - sample-acm-helm-app-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-06-22T17:15:58.815230658-03:00"
